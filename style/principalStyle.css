@@ -1,0 +1,21 @@
+html {
+    background-color: black;
+}
+
+#texto-boas-vindas {
+    text-align: center;
+    color: blue;
+    font-size: 100px;
+}
+
+#carinha {
+    text-align: center;
+    color: green;
+    font-size: 100px;
+}
+
+#gif {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
